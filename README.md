@@ -32,6 +32,49 @@ Esta es una aplicación simple que te permite calcular la ubicación de los tras
 
 <img src="image/tabla.png" width="500" height="400">
 
+## Instrucciones de Instalación
+
+Para ejecutar esta aplicación, sigue estos pasos:
+
+1. Clona o descarga el repositorio desde GitHub. Puedes hacerlo ejecutando el siguiente comando en tu terminal:
+
+   ```bash
+   git clone https://github.com/claudiacaceresv/calculadora_de_trastes_luthier.git
+   ```
+
+2. Navega al directorio del proyecto:
+
+   ```bash
+   cd calculadora_de_trastes_luthier
+   ```
+
+3. Opcional: Crea y activa un entorno virtual para aislar las dependencias del proyecto. Puedes hacerlo utilizando los siguientes comandos:
+
+   - En Linux/macOS:
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
+
+   - En Windows:
+
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+
+4. Instala las dependencias desde el archivo requirements.txt:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Una vez que todas las dependencias se hayan instalado, puedes ejecutar la aplicación con Streamlit:
+   ```bash
+   streamlit run app.py
+   ```
+
 ## Tecnologías utilizadas
 
 Esta aplicación fue desarrollada utilizando las siguientes tecnologías y bibliotecas:
