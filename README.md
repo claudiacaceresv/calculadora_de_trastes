@@ -2,12 +2,14 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://calculadora-de-trastes.streamlit.app/">
-    <img src="image/web.png" alt="Calculadora de trastes" width="50">
+    <img src="image/icon/web.png" alt="Calculadora de trastes" width="50">
   </a>
   <span style="font-size: 15px; margin-left: 10px;">Este es un proyecto desarrollado para la Escuela de Luthería "El Taller de Boedo"</span>
 </div>
 
-![Calculadora de trastes](image/calculadora_de_trastes.png)
+---
+
+![Calculadora de trastes](image/icon/calculadora_de_trastes.png)
 
 ## Índice
 
@@ -22,7 +24,7 @@
 
 Esta es una aplicación simple que te permite calcular la ubicación de los trastes en un diapasón de guitarra bajo el contexto de luthería. Simplemente ingresa el número de trastes y el tiro de cuerda en milímetros, y la aplicación generará un gráfico con la ubicación de los trastes y una tabla con detalles específicos.
 
-![Gráfico](image/grafico.png)
+![Gráfico](image/icon/grafico.png)
 
 ## Instrucciones de Uso
 
@@ -36,7 +38,7 @@ Esta es una aplicación simple que te permite calcular la ubicación de los tras
 
 5. Puedes descargar el gráfico y la tabla en formato PDF utilizando los enlaces proporcionados.
 
-<img src="image/tabla.png" width="500" height="400">
+<img src="image/icon/tabla.png" width="500" height="400">
 
 ## Instrucciones de Instalación
 
@@ -109,7 +111,4 @@ _Data Scientist | Data Analyst_
 
 ---
 
-**Descargo de Responsabilidad**:
-_Esta aplicación y el código fuente fueron desarrollados por Claudia Caceres._
-_Puedes visitar la aplicación en [https://calculadora-de-trastes.streamlit.app/](https://calculadora-de-trastes.streamlit.app/). El código fuente está disponible en este repositorio para su uso público._
-# calculadora_de_trastes
+_Puedes visitar la aplicación en [https://calculadora-de-trastes.streamlit.app/](https://calculadora-de-trastes.streamlit.app/)._
