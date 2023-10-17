@@ -1,6 +1,11 @@
 # Calculadora de Trastes
 
-Este es un proyecto desarrollado para la [**Escuela de Luthería "El Taller de Boedo"**](https://www.instagram.com/el_taller_de_boedo/).
+<div style="display: flex; align-items: center;">
+  <a href="https://calculadora-de-trastes.streamlit.app/">
+    <img src="image/web.png" alt="Calculadora de trastes" width="50">
+  </a>
+  <span style="font-size: 15px; margin-left: 10px;">Este es un proyecto desarrollado para la Escuela de Luthería "El Taller de Boedo"</span>
+</div>
 
 ![Calculadora de trastes](image/calculadora_de_trastes.png)
 
@@ -8,6 +13,7 @@ Este es un proyecto desarrollado para la [**Escuela de Luthería "El Taller de B
 
 - [Descripción](#descripción)
 - [Instrucciones de Uso](#instrucciones-de-uso)
+- [Instrucciones de instalación](#instrucciones-de-instalacion)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Agradecimientos](#agradecimientos)
 - [Contacto](#contacto)
@@ -95,8 +101,15 @@ Agradezco a la **Escuela de Luthería "El Taller de Boedo"** por permitirme comp
 **Claudia Caceres**  
 _Data Scientist | Data Analyst_
 
-[![LinkedIn](image/linkedin.png)](https://www.linkedin.com/in/claudiacaceresv/)
-[![GitHub](image/github.png)](https://github.com/claudiacaceresv)
-[![Telegram](image/telegram.png)](https://t.me/claudiacaceresv)
-[![WhatsApp](image/whatsapp.png)](https://api.whatsapp.com/send?phone=541124831343)
-[![Gmail](image/gmail.png)](mailto:claudiacaceres.info@gmail.com)
+[![LinkedIn](image/icon/linkedin.png)](https://www.linkedin.com/in/claudiacaceresv/)
+[![GitHub](image/icon/github.png)](https://github.com/claudiacaceresv)
+[![Telegram](image/icon/telegram.png)](https://t.me/claudiacaceresv)
+[![WhatsApp](image/icon/whatsapp.png)](https://api.whatsapp.com/send?phone=541124831343)
+[![Gmail](image/icon/gmail.png)](mailto:claudiacaceres.info@gmail.com)
+
+---
+
+**Descargo de Responsabilidad**:
+_Esta aplicación y el código fuente fueron desarrollados por Claudia Caceres._
+_Puedes visitar la aplicación en [https://calculadora-de-trastes.streamlit.app/](https://calculadora-de-trastes.streamlit.app/). El código fuente está disponible en este repositorio para su uso público._
+# calculadora_de_trastes
