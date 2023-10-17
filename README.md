@@ -1,14 +1,5 @@
 # Calculadora de Trastes
 
-<div style="display: flex; align-items: center;">
-  <a href="https://calculadora-de-trastes.streamlit.app/">
-    <img src="image/icon/web.png" alt="Calculadora de trastes" width="50">
-  </a>
-  <span style="font-size: 15px; margin-left: 10px;">Este es un proyecto desarrollado para la Escuela de Luthería "El Taller de Boedo"</span>
-</div>
-
----
-
 ![Calculadora de trastes](image/icon/calculadora_de_trastes.png)
 
 ## Índice
