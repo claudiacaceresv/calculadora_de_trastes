@@ -107,11 +107,13 @@ if st.button("Calcular"):
 
             # Dibujar los trastes
             for index, row in df_grafico.iterrows():
-                x1 = x + row['Distancia a la cejuela']
+                x1 = x + row['Distancia a la cejuela'] + medida_lineas_horizontales
                 y1 = y
                 x2 = x1
                 y2 = alto_hoja - medida_lineas_horizontales
                 c.line(x1 * inch, y1 * inch, x2 * inch, y2 * inch)
+
+
 
             # Agregar título
             titulo = f"Tiro de cuerda: {round(tiro_de_cuerda_usuario, 3)} {unidad} | Cantidad de trastes: {trastes}"
@@ -219,13 +221,6 @@ if st.button("Calcular"):
 
 st.write('---')
 
-# Muestra el mensaje con las URLs
-# URL de GitHub
-github_url = 'https://github.com/claudiacaceresv/calculadora_de_trastes'
-st.write(f"El código fuente está disponible en el siguiente repositorio para su uso público en *GitHub*: {github_url}")
-
-st.write('---')
-
 # Cargar la imagen
 image = Image.open('image/icon/linkedin.png')
 
@@ -237,5 +232,5 @@ small_image = image.resize((50, 50))
 
 # En Streamlit, simplemente coloca los elementos uno debajo del otro
 st.image(small_image, use_column_width=False)
-st.write(f'[LinkedIn]({linkedin_url})')
+st.write(f'[Contacto]({linkedin_url})')
 

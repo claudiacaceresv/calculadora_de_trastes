@@ -102,4 +102,4 @@ _Data Scientist | Data Analyst_
 
 ---
 
-_Puedes visitar la aplicación en [https://calculadora-de-trastes.streamlit.app/](https://calculadora-de-trastes.streamlit.app/)._
+_Visita la aplicación en [https://calculadora-de-trastes.streamlit.app/](https://calculadora-de-trastes.streamlit.app/)._
