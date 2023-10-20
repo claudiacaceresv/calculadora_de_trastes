@@ -121,7 +121,7 @@ if st.button("Calcular"):
             c.drawString(x * inch, y * inch + alto_gráfico * inch + 4, titulo)
 
             # Agregar un sitio web debajo del gráfico en el borde opuesto
-            web = "https://calculadora-de-trastes.streamlit.app/"
+            web = "https://calculadora-trastes.streamlit.app/"
             c.setFont("Helvetica", 8)
             web_x = x * inch  # Colocar el sitio web en el borde izquierdo del gráfico
             web_y = y * inch - 10  # Ajusta la posición vertical según tus preferencias
